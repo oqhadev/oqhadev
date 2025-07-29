@@ -10,7 +10,7 @@ In 2025, I'm embracing **coding as a hobby** - a beautiful, stress-free approach
 
 ## 🎯 My Philosophy
 
-> _"I master nothing, but I can do mostly all"_
+> _"I do not specialize in any, but I can do mostly all"_
 
 I believe in being a **versatile generalist** with strong fundamentals. While I may not claim specialization in any single technology, my broad skill set and solid foundation allow me to tackle diverse challenges and adapt to new technologies quickly.
 
